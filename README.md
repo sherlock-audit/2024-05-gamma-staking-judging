@@ -456,6 +456,10 @@ Escalations have been resolved successfully!
 Escalation status:
 - [omar-ahsan](https://github.com/sherlock-audit/2024-05-gamma-staking-judging/issues/65/#issuecomment-2140509966): rejected
 
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
+
 # Issue M-2: Integer overflow when calculating rewards 
 
 Source: https://github.com/sherlock-audit/2024-05-gamma-staking-judging/issues/207 
@@ -695,4 +699,14 @@ Escalation status:
 **nevillehuang**
 
 Considering issue #313 as the only duplicate of this issue asiIssue #72 fails to identify the correct attack path.
+
+**sherlock-admin2**
+
+The protocol team fixed this issue in the following PRs/commits:
+https://github.com/GammaStrategies/StakingV2/pull/4
+
+
+**sherlock-admin2**
+
+The Lead Senior Watson signed off on the fix.
 
